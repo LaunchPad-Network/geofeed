@@ -5,18 +5,7 @@
 214955:0:500,Learnt from Downstream
 214955:0:10000,Customer Route
 214955:1:66666,BLACKHOLE
-214955:2:1156,Originated from China
-214955:2:1344,Originated from Hong Kong
-214955:2:1756,Originated from Switzerland
-214955:2:1840,Originated from United States of America
 214955:2:1xxx,Originated from ISO-3166-1:$0
-214955:2:3001,Originated from BuyVM-CH (PoP 1)
-214955:2:3002,Originated from MoeDove-HK (PoP 2)
-214955:2:3003,Originated from RainYun-NGB (PoP 3)
-214955:2:3005,Originated from Vultr-US (PoP 5)
-214955:2:3006,Originated from HomeLab-SHA (PoP 6)
-214955:2:3008,Originated from AKIX-HKG (PoP 8)
-214955:2:3009,Originated from DSIX-HKG (PoP 9)
 214955:2:3xxx,Originated from PoP:$0
 214955:2:41,Originated from Europe
 214955:2:42,Originated from North America-E
@@ -35,18 +24,7 @@
 214955:2:55,Originated from Asia-N (RU)
 214955:2:56,Originated from Asia-W (IR,TR,UAE)
 214955:2:57,Originated from Central Asia (AF,UZ,KZ)
-214955:3:1156,Learnt from China
-214955:3:1344,Learnt from Hong Kong
-214955:3:1756,Learnt from Switzerland
-214955:3:1840,Learnt from United States of America
 214955:3:1xxx,Learnt from ISO-3166-1:$0
-214955:3:3001,Learnt from BuyVM-CH (PoP 1)
-214955:3:3002,Learnt from MoeDove-HK (PoP 2)
-214955:3:3003,Learnt from RainYun-NGB (PoP 3)
-214955:3:3005,Learnt from Vultr-US (PoP 5)
-214955:3:3006,Learnt from HomeLab-SHA (PoP 6)
-214955:3:3008,Learnt from AKIX-HKG (PoP 8)
-214955:3:3009,Learnt from DSIX-HKG (PoP 9)
 214955:3:3xxx,Learnt from PoP:$0
 214955:3:41,Learnt from Europe
 214955:3:42,Learnt from North America-E
@@ -65,7 +43,6 @@
 214955:3:55,Learnt from Asia-N (RU)
 214955:3:56,Learnt from Asia-W (IR,TR,UAE)
 214955:3:57,Learnt from Central Asia (AF,UZ,KZ)
-214955:4:nnn,Private Control Community
 214955:5:1,RPKI Valid
 214955:5:2,RPKI Unknown
 214955:5:3,RPKI Invalid
@@ -81,12 +58,4 @@
 214955:5:13,AS_PATH include transit free ASNs
 214955:5:14,AS_PATH include never via route server ASNs
 214955:6:nnn,Received from AS$0
-214955:7:4802,Received from AKIX - HKG
-214955:7:3825,Received from BGP.Exchange - Hong Kong
-214955:7:3835,Received from BGP.Exchange - Kansas
-214955:7:3830,Received from BGP.Exchange - Zurich
-214955:7:4440,Received from DataSphere Internet Exchange (Hong Kong)
-214955:7:4830,Received from LoLi-IX - NGB
-214955:7:3166,Received from ZXIX Hangzhou (Y)
-214955:7:3246,Received from ZXIX Hong Kong (X)
 214955:7:nnn,Received from PeeringDB IXP ID:$0
